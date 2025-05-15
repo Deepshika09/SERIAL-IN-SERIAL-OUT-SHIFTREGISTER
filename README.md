@@ -1,4 +1,6 @@
 **Name:deepshika hemanth kumar**
+
+
 **register number:212224220020**
 
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
